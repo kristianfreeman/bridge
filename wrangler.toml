@@ -1,0 +1,15 @@
+# The name of your project, which will be displayed in the Workers UI
+name = "{{project-name}}"
+
+# The project type - don't change this unless you know what you're doing!
+type = "webpack"
+
+# The route(s) you want to serve your script on. Generally, you would want to configure
+# this as `https://www.mysite.com/*` or something similar.
+route = "https://www.mysite.com/*"
+
+# Your Cloudflare Account ID (see "API Keys" section of the README)
+account_id = ""
+
+# Your Cloudflare Zone ID (see "API Keys" section of the README)
+zone_id = ""
