@@ -1,0 +1,8 @@
+{
+    "name": "{{project-name}}",
+    "version": "0.1.0",
+    "description": "Bridge page for {{project-name}}",
+    "main": "index.js",
+    "author": "{{authors}}",
+    "license": "MIT"
+}
