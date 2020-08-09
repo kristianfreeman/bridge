@@ -6,7 +6,7 @@
 
 Bridge sits in front of your website to render simple single-page notices to your users about the status of your site.
 
-Note from [the author](https://twitter.com/signalnerve): I'd like to add more page types, like "Under Construction", "Coming Soon", etc. Currently, the only supported project type is "sunset", for projects that our shutting down. PRs are welcome!
+Note from [the author](https://twitter.com/signalnerve): I'd like to add more page types, like "Under Construction", "Coming Soon", etc. Currently, the only supported project type is "sunset", for projects that are shutting down. PRs are welcome!
 
 ## Installation
 
